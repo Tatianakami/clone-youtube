@@ -33,4 +33,4 @@
             Modo Escuro: Adicionar a opção de alternar para o modo escuro, popular entre os usuários.
              Aprimorar a Interatividade: Adicionar animações e transições ao passar o mouse sobre os elementos.
              
-tatianakami.github.io/clone-youtube/
+https://tatianakami.github.io/clone-youtube/
