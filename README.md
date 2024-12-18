@@ -9,12 +9,12 @@
             excelente oportunidade para consolidar habilidades básicas de
             desenvolvimento front-end.
 
-             Interface Responsiva: O layout é totalmente responsivo, garantindo que o site seja visualizado corretamente em diferentes tamanhos de tela (desktop, tablet, celular).
-             Menu Interativo: Inclui um menu superior com links de navegação, utilizando interatividade básica com JavaScript.
-             Design Limpo e Funcional: A estrutura do site replica a interface do YouTube com a barra de pesquisa, thumbnails de vídeos e navegação entre seções.
+            Interface Responsiva: O layout é totalmente responsivo, garantindo que o site seja visualizado corretamente em diferentes tamanhos de tela (desktop, tablet, celular).
+            Menu Interativo: Inclui um menu superior com links de navegação, utilizando interatividade básica com JavaScript.
+            Design Limpo e Funcional: A estrutura do site replica a interface do YouTube com a barra de pesquisa, thumbnails de vídeos e navegação entre seções.
             
 
-              Funcionalidades
+            Funcionalidades
 
             Interface Responsiva: O layout é totalmente responsivo, garantindo que o site seja visualizado corretamente em diferentes tamanhos de tela (desktop, tablet, celular).
             Menu Interativo: Inclui um menu superior com links de navegação, utilizando interatividade básica com JavaScript.
